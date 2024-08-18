@@ -8,7 +8,7 @@ exit;
 <?php require 'header.php';?>
 
 <link rel="stylesheet" href="../css/index.css">
-<img src="img/main.jpg" alt="写真その１">
+<img src="../img/main.jpg" alt="写真その１">
 <div class="question">
 <p>Q:放課後デイサービスとは？</p>
 </div>
