@@ -23,7 +23,7 @@ exit;
 <div class="sta-hr"><hr></div>
 <p class="homework">宿題</p>
 <div class="hom-hr"><hr></div>
-<p calss="stretch">みんなで体操</p>
+<p class="stretch">みんなで体操</p>
 <div class="str-hr"><hr></div>
 <p class="program">各種療育プログラム</p>
 <div class="pro-hr"><hr></div>
