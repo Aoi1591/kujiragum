@@ -5,7 +5,6 @@
         <title>header</title>
         <?php
         echo '<div class="title">';
-         echo 'img/title.jpg';
          echo '</div>';
          echo '<div class="menu">';
          echo 'ホーム';
