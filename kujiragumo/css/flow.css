@@ -1,0 +1,124 @@
+body {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.plan-main {
+    width: 500px;
+    background-color: white;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.plan-main h2{
+    text-align: center;
+}
+
+.yes-and-no{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -100px;
+    margin-right: -100px;
+    margin-bottom: 30px;
+}
+
+.no{
+    background-color: #ACD8B0;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.yes{
+    background-color: #F7A587;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.flow-item {
+    margin-bottom: 20px;
+}
+
+/*ご利用の流れ*/
+.flow-item .content {
+    background-color: #CED6E6;
+    padding: 10px 20px;
+    border-radius: 5px;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.flow-item span{
+    text-decoration: overline;
+}
+
+.content-text{
+    color: #ffff;
+}
+
+/*利用開始*/
+.last-item {
+    background-color: #5b84b2;
+    padding: 10px 20px;
+    border-radius: 5px;
+    flex-grow: 1;
+    text-align: center;
+}
+
+/*注意事項*/
+.Precautions {
+    margin-top: 20px;
+    font-size: 12px;
+    color: #666;
+}
+
+/*右寄せbox*/
+.right-box{
+    width: 50%;
+}
+
+/*----------------------------------------利用料金---------------------------------------------*/
+
+.price-main {
+    width: 500px;
+    padding: 40px;
+    text-align: center;
+    margin-top: 100px;
+    border: 10px dotted #8EC9DA;
+    border-radius: 20%;
+
+}
+
+.price-main h2{
+    font-size: 40px;
+    font-weight: 100;
+}
+
+.price-main h3{
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.explanation{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.price-main span{
+    color: #91A8CA;
+}
+
+ul{
+    width: fit-content;
+    margin: auto;
+    text-align: left;
+    font-weight: 500;
+}
+
