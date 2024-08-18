@@ -8,6 +8,7 @@ exit;
 <?php require 'header.php';?>
 
 <link rel="stylesheet" href="../css/index.css">
+<div class="main">
 <img src="../img/main.jpg" alt="写真その１">
 <div class="question">
 <p>Q:放課後デイサービスとは？</p>
@@ -61,6 +62,6 @@ else :
     echo '<p>No posts found</p>';
 endif;
 ?>
-
+</div>
 
 <?php require'fotter.php';?>
