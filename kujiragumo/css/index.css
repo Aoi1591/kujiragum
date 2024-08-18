@@ -1,7 +1,45 @@
 body{
+    width: 700px;
     margin: auto;
 }
 .question{
+    margin: auto;
+    width: 300px;
     color: #fff;
     background-color: #2d6792;
+}
+/*１日の流れ*/
+/*項目*/
+.transfer{
+    color: #fff;
+    background-color: #2d6792;
+}
+
+.start{
+    color: #fff;
+    background-color: #2d6792;
+}
+.homework{
+    color: #fff;
+    background-color: #2d6792;
+}
+.stretch{
+    color: #fff;
+    background-color: #2d6792;
+}
+.program{
+    color: #fff;
+    background-color: #2d6792;
+}
+.home{
+    color: #fff;
+    background-color: #2d6792;
+}
+.transfer_home{
+    color: #fff;
+    background-color: #2d6792;
+}
+/*線*/
+.tra-hr{
+    transform: rotate(135deg);
 }
