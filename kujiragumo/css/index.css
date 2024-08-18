@@ -74,35 +74,35 @@ body{
 /*線*/
 .tra-hr{
     transform: rotate(160deg);
-    width: 212;
+    width: 212px;
     position: relative;
     top: 70px;
     left: 95px;
 }
 .sta-hr{
     transform: rotate(20deg);
-    width: 212;
+    width: 212px;
     position: relative;
     top: 35px;
     left: 550px;
 }
 .hom-hr{
     transform: rotate(160deg);
-    width: 212;
+    width: 212px;
     position: relative;
     top: 35px;
     left: 550px;
 }
 .pro-hr{
     transform: rotate(16deg);
-    width: 212;
+    width: 212px;
     position: relative;
     top: 150px;
     left: 95px;
 }
 .home-hr{
     transform: rotate(20deg);
-    width: 212;
+    width: 212px;
     position: relative;
     top: 200px;
     left: 95px;
