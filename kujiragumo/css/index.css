@@ -5,37 +5,75 @@ body{
 .question{
     margin: auto;
     width: 300px;
+    text-align: center;
     color: #fff;
     background-color: #2d6792;
 }
 /*１日の流れ*/
 /*項目*/
 .transfer{
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: 100px;
     color: #fff;
     background-color: #2d6792;
 }
 
 .start{
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: 70px;
     color: #fff;
     background-color: #2d6792;
 }
 .homework{
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: 100px;
+    left: 200px;
     color: #fff;
     background-color: #2d6792;
 }
 .stretch{
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: 130px;
     color: #fff;
     background-color: #2d6792;
 }
 .program{
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: 160px;
     color: #fff;
     background-color: #2d6792;
 }
 .home{
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: 190px;
     color: #fff;
     background-color: #2d6792;
 }
 .transfer_home{
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: 160px;
+    left: 200px;
     color: #fff;
     background-color: #2d6792;
 }
