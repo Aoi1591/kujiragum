@@ -23,5 +23,28 @@ else :
     echo '<p>No content found</p>';
 endif;
 ?>
+<?php
+if (have_posts()) :
+    while (have_posts()) : the_post();
+        ?>
+        <article>
+            <h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
+            <div>
+                <?php the_excerpt(); ?>
+            </div>
+        </article>
+        <?php
+    endwhile;
+
+    // Pagination (ページネーション)
+    the_posts_pagination(array(
+        'prev_text' => 'Previous',
+        'next_text' => 'Next',
+    ));
+else :
+    echo '<p>No posts found</p>';
+endif;
+?>
+
 
 <?php require'fotter.php';?>
