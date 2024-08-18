@@ -1,0 +1,96 @@
+body {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Rounded M+ 1c', sans-serif; /* 丸みのあるフォント */
+    background-color: #ffff;
+}
+
+.about-main {
+    max-width: 1200px;
+    text-align: center;
+}
+
+/*---------------------------タイトル-------------------------------*/
+
+.about-text {
+    margin-bottom: 50px;
+}
+
+.about-circle {
+    display: inline-block;
+    padding: 15px;
+    border-radius: 40%;
+    width: 30%;
+    background-color: #9eb6ce;
+    color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.about{
+    font-size: 25px;
+}
+
+.about-circle span{
+    text-decoration: overline;
+}
+
+/*---------------------------ポイント-------------------------------*/
+
+.point-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+    margin-bottom: 50px;
+}
+
+.point {
+    width: 50%;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 10px dotted #8EC9DA;
+}
+
+.point h3 {
+    font-size: 1.5em;
+    color: #5b84b2;
+    margin-bottom: 15px;
+}
+
+/*---------------------------療育の魅力-------------------------------*/
+
+.charm {
+    margin-top: 50px;
+}
+
+.charm h2 {
+    font-size: 2em;
+    color: #5b84b2;
+    margin-bottom: 20px;
+}
+
+.charm p {
+    font-size: 1.2em;
+    color: #666;
+    margin-bottom: 40px;
+}
+
+.training {
+    background-color: #d0e4f1;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.training-title {
+    font-size: 1.8em;
+    font-weight: 700;
+    color: #5b84b2;
+    margin-bottom: 20px;
+}
+
+.training-text {
+    font-size: 1.2em;
+    color: #333;
+}
