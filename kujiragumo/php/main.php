@@ -4,7 +4,7 @@ header("Location: /wp". $_SERVER["REQUEST_URI"]);
 exit;
 }
 ?>
-<?php require('./wp/wp-load.php'); ?>
+<?php require('./wp/wp-blog-header.php'); ?>
 <?php require 'header.php';?>
 <img src="img/main.jpg" alt="写真その１">
 <h2>Q:放課後デイサービスとは？</h2>
