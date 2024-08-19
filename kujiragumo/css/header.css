@@ -1,3 +1,7 @@
+.header{
+    width: 100%;
+    position: fixed; /* ヘッダーを固定 */
+}
 .logo{
     width: 300px;
     height: 100px;
