@@ -6,7 +6,6 @@
         <link rel="stylesheet" href="../css/header.css">
         <link rel="stylesheet" herf="../css/fotter.css">
     </head>
-    <body>
     <?php
         echo '<header>';
          echo '<div class="header">';
@@ -23,3 +22,4 @@
          echo '</div>';
          echo '</header>';
          ?>
+    <body>
