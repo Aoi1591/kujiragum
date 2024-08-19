@@ -75,6 +75,7 @@
 }
 /*線*/
 .tra-hr{
+    border-style: dotted;
     transform: rotate(160deg);
     width: 212px;
     position: relative;
@@ -82,6 +83,7 @@
     left: 95px;
 }
 .sta-hr{
+    border-style: dotted;
     transform: rotate(20deg);
     width: 212px;
     position: relative;
@@ -89,6 +91,7 @@
     left: 394px;
 }
 .hom-hr{
+    border-style: dotted;
     transform: rotate(160deg);
     width: 212px;
     position: relative;
@@ -96,12 +99,14 @@
     left: 394px;
 }
 .sta-hr{
+    border-style: dotted;
     transform: rotate(160deg);
     width: 212px;
     position: relative;
     left: 95px;
 }
 .pro-hr{
+    border-style: dotted;
     transform: rotate(16deg);
     width: 212px;
     position: relative;
@@ -109,6 +114,7 @@
     left: 94.5px;
 }
 .home-hr{
+    border-style: dotted;
     transform: rotate(20deg);
     width: 212px;
     position: relative;
