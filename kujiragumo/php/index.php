@@ -5,10 +5,27 @@ exit;
 }
 ?>
 <?php require('./wp/wp-blog-header.php'); ?>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
 <link rel="stylesheet" href="../css/index.css">
 <?php require 'header.php';?>
 <div class="top">
-<img src="../img/main.jpg" alt="写真その１">
+  <ul class="photo">
+   <li>
+     <img src="../img/main1.jpg" alt="写真その１">
+    </li>
+    <li>
+      <img src="../img/main2.jpg" alt="写真その2">
+    </li>
+    <li>
+      <img src="../img/main3.jpg" alt="写真その3">
+    </li>
+    <li>
+      <img src="../img/main4.jpg" alt="写真その4">
+    </li>
+  </ul>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script src="../js/index.js"></script>
 <div class="question">
 <p>Q:放課後デイサービスとは？</p>
 </div>
