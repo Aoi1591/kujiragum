@@ -85,27 +85,33 @@
     transform: rotate(20deg);
     width: 212px;
     position: relative;
-    top: 35px;
-    left: 550px;
+    top: 0px;
+    left: 394px;
 }
 .hom-hr{
     transform: rotate(160deg);
     width: 212px;
     position: relative;
-    top: 35px;
-    left: 550px;
+    top: 0px;
+    left: 394px;
+}
+.sta-hr{
+    transform: rotate(160deg);
+    width: 212px;
+    position: relative;
+    left: 95px;
 }
 .pro-hr{
     transform: rotate(16deg);
     width: 212px;
     position: relative;
-    top: 150px;
-    left: 95px;
+    top: 0px;
+    left: 94.5px;
 }
 .home-hr{
     transform: rotate(20deg);
     width: 212px;
     position: relative;
-    top: 200px;
-    left: 95px;
+    top: 7px;
+    left: 394px;
 }
