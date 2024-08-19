@@ -15,8 +15,8 @@
          echo '<a href="flow.html">ご利用の流れ・料金</a>';
          echo '<a href="about.html">くじらぐもの魅力</a>';
          echo '<a href="blog.php">ブログ</a>';
+         echo '<a href="inquiry.php" font-color="#000"class="inquiry">＞お問い合わせはこちら</a>';
          echo '</div>';
-         echo '<a href="inquiry.php" class="inquiry">＞お問い合わせはこちら</a>';
 
          echo '</div>';
          ?>
