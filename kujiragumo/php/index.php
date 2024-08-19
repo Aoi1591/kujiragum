@@ -5,10 +5,9 @@ exit;
 }
 ?>
 <?php require('./wp/wp-blog-header.php'); ?>
-<?php require 'header.php';?>
-
 <link rel="stylesheet" href="../css/index.css">
-<div class="main">
+<?php require 'header.php';?>
+<div class="top">
 <img src="../img/main.jpg" alt="写真その１">
 <div class="question">
 <p>Q:放課後デイサービスとは？</p>
