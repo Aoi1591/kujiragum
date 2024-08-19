@@ -82,18 +82,18 @@ img{
 .slick-dots .slick-active button{
     background:#333;/*ドットボタンの現在地表示の色
 }
+*/
+/*１日の流れ*/
 
+h3{
+    text-align: center;
+}
 .question{
     margin: auto;
     width: 300px;
     text-align: center;
     color: #fff;
     background-color: #2d6792;
-}
-*/
-/*１日の流れ*/
-h3{
-    text-align: center;
 }
 /*項目*/
 .transfer{
