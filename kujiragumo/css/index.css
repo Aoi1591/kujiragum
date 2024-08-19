@@ -74,6 +74,9 @@
     background-color: #2d6792;
 }
 /*線*/
+hr{
+    display: none;
+}
 .tra-hr{
     border: none;
     border-top: 2px dotted blue;
