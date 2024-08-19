@@ -75,7 +75,8 @@
 }
 /*線*/
 .tra-hr{
-    border-style: dotted;
+    border: none;
+    border-top: 2px dotted blue;
     transform: rotate(160deg);
     width: 212px;
     position: relative;
@@ -83,7 +84,8 @@
     left: 95px;
 }
 .sta-hr{
-    border-style: dotted;
+    border: none;
+    border-top: 2px dotted blue;
     transform: rotate(20deg);
     width: 212px;
     position: relative;
@@ -91,22 +93,25 @@
     left: 394px;
 }
 .hom-hr{
-    border-style: dotted;
+    border: none;
+    border-top: 2px dotted blue;
     transform: rotate(160deg);
     width: 212px;
     position: relative;
     top: 0px;
     left: 394px;
 }
-.sta-hr{
-    border-style: dotted;
+.str-hr{
+    border: none;
+    border-top: 2px dotted blue;
     transform: rotate(160deg);
     width: 212px;
     position: relative;
     left: 95px;
 }
 .pro-hr{
-    border-style: dotted;
+    border: none;
+    border-top: 2px dotted blue;
     transform: rotate(16deg);
     width: 212px;
     position: relative;
@@ -114,7 +119,8 @@
     left: 94.5px;
 }
 .home-hr{
-    border-style: dotted;
+    border: none;
+    border-top: 2px dotted blue;
     transform: rotate(20deg);
     width: 212px;
     position: relative;
