@@ -5,7 +5,9 @@
         <title>header</title>
         <link rel="stylesheet" href="../css/header.css">
         <link rel="stylesheet" herf="../css/fotter.css">
-        <?php
+    </head>
+    <body>
+    <?php
         echo '<div class="header">';
          echo '<div class="title">';
          echo '<img class ="logo" src="../img/logo.png" alt="ロゴ">';
@@ -20,5 +22,3 @@
 
          echo '</div>';
          ?>
-    </head>
-    <body>
