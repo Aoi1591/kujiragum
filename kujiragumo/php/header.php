@@ -8,7 +8,8 @@
     </head>
     <body>
     <?php
-        echo '<div class="header">';
+        echo '<header>'
+         echo '<div class="header">';
          echo '<div class="title">';
          echo '<img class ="logo" src="../img/logo.png" alt="ロゴ">';
          echo '</div>';
@@ -19,6 +20,6 @@
          echo '<a href="blog.php">ブログ</a>';
          echo '<a href="inquiry.php" font-color="#000"class="inquiry">＞お問い合わせはこちら</a>';
          echo '</div>';
-
          echo '</div>';
+         echo '</header>'
          ?>
