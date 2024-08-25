@@ -1,0 +1,28 @@
+.header{
+    background-color: #fff;
+    width: 100%;
+    position: fixed; /* ヘッダーを固定 */
+    z-index: 30;
+}
+.logo{
+    text-align: right;
+    width: 300px;
+    height: 100px;
+}
+.menu{
+    background-color: #2d6792;
+    display: flex;
+    justify-content: space-between;/*アイテム間に均等に空白*/
+    
+}
+.menu a{
+    text-decoration: none;
+    margin: 0 10px;
+}
+.wit{
+    color: #fff;
+}
+.inquiry{
+    color: black;
+    background-color: #87CEFA;
+}
