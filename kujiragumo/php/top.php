@@ -4,11 +4,7 @@
 <link rel="stylesheet" href="../css/index.css">
 <?php require 'header.php';?>
 <div class="top">
-  <ul class="photo">
-   <li>
      <img src="../img/main1.jpg" alt="写真その１">
-    </li>
-  </ul>
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 <script src="../js/index.js"></script>
