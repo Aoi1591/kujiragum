@@ -2,7 +2,6 @@
     background-color: #fff;
     width: 100%;
     position: fixed; /* ヘッダーを固定 */
-    z-index: 30;
 }
 .logo{
     text-align: right;
