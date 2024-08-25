@@ -1,7 +1,5 @@
 <?php require "header.php";?>
     <link rel="stylesheet" href="../css/about.css">
-
-<body>
     <div class="about-main">
         <div class="about-text">
             <div class="about-circle">
