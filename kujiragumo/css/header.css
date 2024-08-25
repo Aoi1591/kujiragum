@@ -2,7 +2,7 @@
     background-color: #fff;
     width: 100%;
     position: fixed; /* ヘッダーを固定 */
-    z-index: calc();
+    z-index: 30;
 }
 .logo{
     text-align: right;
@@ -16,11 +16,12 @@
     
 }
 .menu a{
-    color: #fff;
     text-decoration: none;
     margin: 0 10px;
 }
-
+.wit{
+    color: #fff;
+}
 .inquiry{
     color: black;
     background-color: #87CEFA;
