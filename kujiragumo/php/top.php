@@ -34,3 +34,4 @@
 <div class="home-hr"><hr></div>
 <p class="transfer_home">送迎・帰宅</p>
 </div>
+<?php require'fotter.php';?>
