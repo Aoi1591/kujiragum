@@ -1,4 +1,6 @@
-
+body{
+    margin: 0;
+}
 .top{
     width: 700px;
     margin: auto;
@@ -83,17 +85,19 @@ img{
     background:#333;/*ドットボタンの現在地表示の色
 }
 */
-/*１日の流れ*/
 
-h3{
-    text-align: center;
-}
 .question{
+    font-size: 30px;
     margin: auto;
     width: 300px;
     text-align: center;
     color: #fff;
     background-color: #2d6792;
+}
+/*１日の流れ*/
+
+h2{
+    text-align: center;
 }
 /*項目*/
 .transfer{
@@ -103,7 +107,7 @@ h3{
     position: relative;
     top: 150px;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 
 .start{
@@ -112,7 +116,7 @@ h3{
     height: 50px;
     margin: auto;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 .homework{
     text-align: center;
@@ -121,7 +125,7 @@ h3{
     position: relative;
     left: 600px;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 .stretch{
     text-align: center;
@@ -129,7 +133,7 @@ h3{
     height: 50px;
     margin: auto;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 .program{
     text-align: center;
@@ -137,7 +141,7 @@ h3{
     height: 50px;
     position: relative;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 .home{
     text-align: center;
@@ -145,7 +149,7 @@ h3{
     height: 50px;
     margin: auto;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 .transfer_home{
     text-align: center;
@@ -154,7 +158,7 @@ h3{
     position: relative;
     left: 600px;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 /*線*/
 hr{
