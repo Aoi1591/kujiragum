@@ -4,7 +4,7 @@
         <meta charaset="">
         <title>header</title>
         <link rel="stylesheet" href="../css/header.css">
-        <link rel="stylesheet" herf="../css/fotter.css">
+        <link rel="stylesheet" href="../css/fotter.css">
         <?php
         echo '<div class="title">';
          echo '</div>';
