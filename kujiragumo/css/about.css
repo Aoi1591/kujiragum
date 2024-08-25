@@ -1,6 +1,5 @@
 body {
     padding: 50px;
-    display: flex;
     justify-content: center;
     font-family: 'Rounded M+ 1c', sans-serif; /* 丸みのあるフォント */
     background-color: #ffff;
