@@ -2,6 +2,7 @@
     background-color: #fff;
     width: 100%;
     position: fixed; /* ヘッダーを固定 */
+    z-index: calc();
 }
 .logo{
     text-align: right;
@@ -22,5 +23,5 @@
 
 .inquiry{
     color: black;
-    background-color: #fff;
+    background-color: #87CEFA;
 }
