@@ -70,6 +70,6 @@
             </ul>
         </div>
     </div>
-    <?php require "fotter.php";?>
+    <?php require "fotter.html";?>
 </body>
 </html>
