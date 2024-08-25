@@ -5,6 +5,7 @@
         <title>header</title>
         <link rel="stylesheet" href="../css/header.css">
         <link rel="stylesheet" href="../css/fotter.css">
+
     </head>
     <?php
         echo '<header>';
