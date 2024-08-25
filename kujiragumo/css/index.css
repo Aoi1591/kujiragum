@@ -5,9 +5,9 @@
     padding: 150px;
 }
 /*トップ写真のスライド*/
-img{
-    width: 500px;
-    height: 300px;
+.img-top{
+    width: 500px !important;
+    height: 300px !important;
 }
 /*
 .photo {/*横幅94%で左右に余白を持たせて中央寄せ
