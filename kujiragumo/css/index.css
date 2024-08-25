@@ -1,8 +1,93 @@
 body{
+    margin: 0;
+}
+.top{
     width: 700px;
     margin: auto;
+    padding: 150px;
 }
+/*トップ写真のスライド*/
+img{
+    width: 100px;
+    height: 70px;
+}
+/*
+.photo {/*横幅94%で左右に余白を持たせて中央寄せ
+    width:94%;
+    margin:0 auto;
+}
+
+.photo img {
+    width:60vw;/*スライダー内の画像を60vwにしてレスポンシブ化
+    height:auto;
+}
+
+.photo .slick-slide {
+  transform: scale(0.8);/*左右の画像のサイズを80%に
+  transition: all .5s;/*拡大や透過のアニメーションを0.5秒で行う
+  opacity: 0.5;/*透過50%
+}
+
+.photo .slick-slide.slick-center{
+  transform: scale(1);/*中央の画像のサイズだけ等倍に
+  opacity: 1;/*透過なし
+}
+
+
+/*矢印の設定
+
+/*戻る、次へ矢印の位置
+.slick-prev, 
+.slick-next {
+    position: absolute;/*絶対配置にする
+    top: 42%;
+    cursor: pointer;/*マウスカーソルを指マークに
+    outline: none;/*クリックをしたら出てくる枠線を消す
+    border-top: 2px solid #666;/*矢印の色
+    border-right: 2px solid #666;/*矢印の色
+    height: 15px;
+    width: 15px;
+}
+
+.slick-prev {/*戻る矢印の位置と形状
+    left: -1.5%;
+    transform: rotate(-135deg);
+}
+
+.slick-next {/*次へ矢印の位置と形状
+    right: -1.5%;
+    transform: rotate(45deg);
+}
+
+/*ドットナビゲーションの設定
+
+.slick-dots {
+    text-align:center;
+  margin:20px 0 0 0;
+}
+
+.slick-dots li {
+    display:inline-block;
+  margin:0 5px;
+}
+
+.slick-dots button {
+    color: transparent;
+    outline: none;
+    width:8px;/*ドットボタンのサイズ
+    height:8px;/*ドットボタンのサイズ
+    display:block;
+    border-radius:50%;
+    background:#ccc;/*ドットボタンの色
+}
+
+.slick-dots .slick-active button{
+    background:#333;/*ドットボタンの現在地表示の色
+}
+*/
+
 .question{
+    font-size: 20px;
     margin: auto;
     width: 300px;
     text-align: center;
@@ -10,6 +95,10 @@ body{
     background-color: #2d6792;
 }
 /*１日の流れ*/
+
+h2{
+    text-align: center;
+}
 /*項目*/
 .transfer{
     text-align: center;
@@ -18,7 +107,7 @@ body{
     position: relative;
     top: 150px;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 
 .start{
@@ -27,7 +116,7 @@ body{
     height: 50px;
     margin: auto;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 .homework{
     text-align: center;
@@ -36,7 +125,7 @@ body{
     position: relative;
     left: 600px;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 .stretch{
     text-align: center;
@@ -44,7 +133,7 @@ body{
     height: 50px;
     margin: auto;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 .program{
     text-align: center;
@@ -52,7 +141,7 @@ body{
     height: 50px;
     position: relative;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 .home{
     text-align: center;
@@ -60,7 +149,7 @@ body{
     height: 50px;
     margin: auto;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 .transfer_home{
     text-align: center;
@@ -69,10 +158,15 @@ body{
     position: relative;
     left: 600px;
     color: #fff;
-    background-color: #2d6792;
+    background-color: #87CEFA;
 }
 /*線*/
+hr{
+    display: none;
+}
 .tra-hr{
+    border: none;
+    border-top: 5px dotted rgb(51, 162, 209);
     transform: rotate(160deg);
     width: 212px;
     position: relative;
@@ -80,30 +174,46 @@ body{
     left: 95px;
 }
 .sta-hr{
+    border: none;
+    border-top: 5px dotted rgb(51, 162, 209);
     transform: rotate(20deg);
     width: 212px;
     position: relative;
-    top: 35px;
-    left: 550px;
+    top: 0px;
+    left: 394px;
 }
 .hom-hr{
+    border: none;
+    border-top: 5px dotted rgb(51, 162, 209);
     transform: rotate(160deg);
     width: 212px;
     position: relative;
-    top: 35px;
-    left: 550px;
+    top: 0px;
+    left: 394px;
+}
+.str-hr{
+    border: none;
+    border-top: 5px dotted rgb(51, 162, 209);
+    transform: rotate(160deg);
+    width: 212px;
+    position: relative;
+    left: 95px;
 }
 .pro-hr{
+    border: none;
+    border-top: 5px dotted rgb(51, 162, 209);
     transform: rotate(16deg);
     width: 212px;
     position: relative;
-    top: 150px;
-    left: 95px;
+    top: 0px;
+    left: 94.5px;
 }
 .home-hr{
+    border: none;
+    border-top: 5px dotted rgb(51, 162, 209);
     transform: rotate(20deg);
     width: 212px;
     position: relative;
-    top: 200px;
-    left: 95px;
+    top: 7px;
+    left: 394px;
 }
