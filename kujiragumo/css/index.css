@@ -6,8 +6,10 @@
 }
 /*トップ写真のスライド*/
 .img-top{
-    width: 500px !important;
-    height: 300px !important;
+    width: 500px ;
+    height: 300px ;
+    margin: 10px;
+    text-align: center;
 }
 /*
 .photo {/*横幅94%で左右に余白を持たせて中央寄せ
