@@ -87,10 +87,9 @@ body {
 
 .price-main {
     width: 700px;
-    /*padding: 40px;*/
+    padding: 40px;
     margin:  10px auto;
     text-align: center;
-    margin: 132px;
     border: 10px dotted #8EC9DA;
     border-radius: 20%;
 
