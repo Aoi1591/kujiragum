@@ -2,11 +2,6 @@ body {
     justify-content: center;
     font-weight: bold;
 }
-.big-box{
-    width: 500px;
-    padding: 100px;
-    text-align: center;
-}
 .plan-main {
     text-align: center;
     width: 700px;
@@ -93,6 +88,7 @@ body {
 .price-main {
     width: 700px;
     /*padding: 40px;*/
+    margin:  10px auto;
     text-align: center;
     margin: 132px;
     border: 10px dotted #8EC9DA;
