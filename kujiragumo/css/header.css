@@ -34,12 +34,8 @@ table {
     
 }
 .menu a{
-    font-size: 15px;
+    font-size: 20px;
     color: #fff;
     text-decoration: none;
-    margin: 0 10px;
-}
-.inquiry{
-    color: black;
-    background-color: #87CEFA;
+    margin: 12px;
 }
