@@ -12,7 +12,7 @@
          echo '<div class="header">';
          echo '<img class ="logo" src="../img/logo.png" alt="ロゴ">';
          echo '<div class="menu">';
-         echo '<a href="index.php"  >ホーム</a>';
+         echo '<a href="top.php"  >ホーム</a>';
          echo '<a href="flow.php" >ご利用の流れ・料金</a>';
          echo '<a href="about.php" >くじらぐもの魅力</a>';
          echo '<a href="blog.php" >ブログ</a>';
