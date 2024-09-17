@@ -46,6 +46,7 @@
 <img class="tra-img" src="..img/体操.png" alt="体操">
 <div class="str-hr"><hr></div>
 <p class="program">各種療育プログラム</p>
+<img class="pro-img" src="../img/プログラム.png">
 <div class="pro-hr"><hr></div>
 <p class="home">帰りの会</p>
 <div class="home-hr"><hr></div>
