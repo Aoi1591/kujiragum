@@ -36,12 +36,16 @@
 </div>
 <h2>１日の流れ（例）</h2>
 <p class="transfer">送迎・来所</p>
+<img class="tra-img" src="..img/送迎.png" alt="送迎">
 <div class="tra-hr"><hr></div>
 <p class="start">始まりの会</p>
 <div class="sta-hr"><hr></div>
 <p class="homework">宿題</p>
+<img class="tra-img" src="..img/宿題.png" alt="宿題">
+<img class="tra-img" src="..img/宿題2.png" alt="宿題2">
 <div class="hom-hr"><hr></div>
 <p class="stretch">みんなで体操</p>
+<img class="tra-img" src="..img/体操.png" alt="体操">
 <div class="str-hr"><hr></div>
 <p class="program">各種療育プログラム</p>
 <div class="pro-hr"><hr></div>
