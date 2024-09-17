@@ -34,22 +34,23 @@
       なケアを行うことで【家族へのレスパイトケア（休息）】としての役割も担っています。</p>
 <h2>１日の流れ（例）</h2>
 <p class="transfer">送迎・来所</p>
-<img class="tra-img" src="..img/送迎.png" alt="送迎">
 <div class="tra-hr"><hr></div>
 <p class="start">始まりの会</p>
+<img class="sta-img" src="..img/朝.png">
 <div class="sta-hr"><hr></div>
 <p class="homework">宿題</p>
-<img class="tra-img" src="..img/宿題.png" alt="宿題">
-<img class="tra-img" src="..img/宿題2.png" alt="宿題2">
+<img class="tra-img" src="..img/宿題.png">
+<img class="tra-img" src="..img/宿題2.png">
 <div class="hom-hr"><hr></div>
 <p class="stretch">みんなで体操</p>
-<img class="tra-img" src="..img/体操.png" alt="体操">
+<img class="tra-img" src="..img/体操.png">
 <div class="str-hr"><hr></div>
 <p class="program">各種療育プログラム</p>
 <img class="pro-img" src="../img/プログラム.png">
 <div class="pro-hr"><hr></div>
 <p class="home">帰りの会</p>
 <div class="home-hr"><hr></div>
-<p class="transfer_home">送迎・帰宅</p>
+<p class="back_home">送迎・帰宅</p>
+<img class="back-img" src="../img/送迎.png">
 </div>
 <?php require'fotter.html';?>
