@@ -7,19 +7,22 @@
      <!--<img class="img-top" src="../img/main1.jpg" alt="写真その１">-->
      <div class="slide-container">
        <div class="slide-wrapper">
-          <img class="slide" src="../img/main1.jpg" alt="京都">
-          <img class="slide" src="../img/main1.jpg" alt="横浜">
-          <img class="slide" src="../img/main1.jpg" alt="良い街">
+          <img class="slide" src="../img/main1.jpg" >
+          <img class="slide" src="../img/main13.jpg" >
+          <img class="slide" src="../img/main14.jpg" >
+          <img class="slide" src="../img/main15.jpg" >
       </div>
       <div class="slide-wrapper">
-        <img class="slide" src="../img/main1.jpg" alt="京都">
-        <img class="slide" src="../img/main1.jpg" alt="横浜">
-        <img class="slide" src="../img/main1.jpg" alt="良い街">
+        <img class="slide" src="../img/main1.jpg" >
+        <img class="slide" src="../img/main13.jpg" >
+        <img class="slide" src="../img/main14.jpg" >
+        <img class="slide" src="../img/main15.jpg" >
      </div>
      <div class="slide-wrapper">
-        <img class="slide" src="../img/main1.jpg" alt="京都">
-        <img class="slide" src="../img/main1.jpg" alt="横浜">
-        <img class="slide" src="../img/main1.jpg" alt="良い街">
+        <img class="slide" src="../img/main1.jpg" >
+        <img class="slide" src="../img/main13.jpg">
+        <img class="slide" src="../img/main14.jpg" >
+        <img class="slide" src="../img/main15.jpg" >
       </div>
     </div>
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
