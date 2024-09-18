@@ -4,7 +4,6 @@
 <link rel="stylesheet" href="../css/index.css">
 <?php require 'header.php';?>
 <div class="top">
-     <!--<img class="img-top" src="../img/main1.jpg" alt="写真その１">-->
      <div class="slide-container">
        <div class="slide-wrapper">
           <img class="slide" src="../img/main1.jpg" >
