@@ -36,7 +36,7 @@
 <p class="transfer">送迎・来所</p>
 <div class="tra-hr"><hr></div>
 <p class="start">始まりの会</p>
-<img class="sta-img" src="../img/朝.png">
+<img class="sta-img" src="../img/朝.jpg">
 <div class="sta-hr"><hr></div>
 <p class="homework">宿題</p>
 <img class="home-img" src="../img/宿題.png">
