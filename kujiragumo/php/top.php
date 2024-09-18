@@ -36,14 +36,14 @@
 <p class="transfer">送迎・来所</p>
 <div class="tra-hr"><hr></div>
 <p class="start">始まりの会</p>
-<img class="sta-img" src="..img/朝.png">
+<img class="sta-img" src="../img/朝.png">
 <div class="sta-hr"><hr></div>
 <p class="homework">宿題</p>
-<img class="tra-img" src="..img/宿題.png">
-<img class="tra-img" src="..img/宿題2.png">
+<img class="tra-img" src="../img/宿題.png">
+<img class="tra-img" src="../img/宿題2.png">
 <div class="hom-hr"><hr></div>
 <p class="stretch">みんなで体操</p>
-<img class="tra-img" src="..img/体操.png">
+<img class="tra-img" src="../img/体操.png">
 <div class="str-hr"><hr></div>
 <p class="program">各種療育プログラム</p>
 <img class="pro-img" src="../img/プログラム.png">
