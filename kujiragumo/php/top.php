@@ -45,7 +45,6 @@
 <img class="home2-img" src="../img/宿題2.png">
 <div class="hom-hr"><hr></div>
 <p class="stretch">みんなで体操</p>
-<img class="str-img" src="../img/体操.png">
 <div class="str-hr"><hr></div>
 <p class="program">各種療育<br>プログラム</p>
 <img class="pro-img" src="../img/プログラム.png">
