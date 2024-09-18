@@ -8,7 +8,7 @@
 .img-top{
     width: 500px ;
     height: 300px ;
-    margin: 10px;
+    margin: 100px;
     text-align: center;
 }
 .question{
@@ -18,6 +18,9 @@
     text-align: center;
     color: #fff;
     background-color: #2d6792;
+}
+.expl{
+    margin: 30px;
 }
 /*１日の流れ*/
 
