@@ -27,6 +27,7 @@ h2{
 /*項目*/
 .transfer{
     text-align: center;
+    line-height: 50px;
     width: 100px;
     height: 50px;
     position: relative;
@@ -37,6 +38,7 @@ h2{
 
 .start{
     text-align: center;
+    line-height: 50px;
     width: 100px;
     height: 50px;
     margin: auto;
@@ -45,42 +47,54 @@ h2{
 }
 .homework{
     text-align: center;
+    line-height: 50px;
     width: 100px;
     height: 50px;
     position: relative;
     left: 600px;
+    top: -75px;
     color: #fff;
     background-color: #87CEFA;
 }
 .stretch{
     text-align: center;
+    line-height: 50px;
     width: 100px;
     height: 50px;
-    margin: auto;
+    position: relative;
+    left: 300px;
+    top: -130px;
     color: #fff;
     background-color: #87CEFA;
 }
 .program{
     text-align: center;
+    line-height: 50px;
     width: 100px;
     height: 50px;
     position: relative;
+    top: -130px;
     color: #fff;
     background-color: #87CEFA;
 }
 .home{
     text-align: center;
+    line-height: 50px;
     width: 100px;
     height: 50px;
-    margin: auto;
+    position: relative;
+    left: 300px;
+    top: -200px;
     color: #fff;
     background-color: #87CEFA;
 }
 .back_home{
     text-align: center;
+    line-height: 50px;
     width: 100px;
     height: 50px;
     position: relative;
+    top: -190px;
     left: 600px;
     color: #fff;
     background-color: #87CEFA;
@@ -89,28 +103,41 @@ h2{
 .sta-img{
     width: 50px;
     height: 50px;
+    position: relative;
+    left: 400px;
+    top: -130px;
 }
 .home-img{
     width: 50px;
     height: 50px;
+    position: relative;
+    left: 700px;
+    top: -200px;
 }
 .home2-img{
     width: 50px;
     height: 50px;
+    position: relative;
+    left: 700px;
+    top: -200px;
 }
 .str-img{
     width: 50px;
     height: 50px;
 }
 .pro-img{
-    width: 50px;
-    height: 50px;
-}
-.back-img{
-    width: 50px;
+    width: 90px;
     height: 50px;
     position: relative;
-    left: 500px;
+    left: -50px;
+    top: -270px;
+}
+.back-img{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: -190px;
+    left: 700px;
 }
 
 
@@ -136,7 +163,7 @@ hr{
     transform: rotate(20deg);
     width: 212px;
     position: relative;
-    top: 0px;
+    top: -70px;
     left: 394px;
 }
 .hom-hr{
@@ -145,8 +172,8 @@ hr{
     transform: rotate(160deg);
     width: 212px;
     position: relative;
-    top: 0px;
-    left: 394px;
+    top: -130px;
+    left: 393px;
 }
 .str-hr{
     border: none;
@@ -154,6 +181,7 @@ hr{
     transform: rotate(160deg);
     width: 212px;
     position: relative;
+    top: -120px;
     left: 95px;
 }
 .pro-hr{
@@ -162,7 +190,7 @@ hr{
     transform: rotate(16deg);
     width: 212px;
     position: relative;
-    top: 0px;
+    top: -130px;
     left: 94.5px;
 }
 .home-hr{
@@ -171,7 +199,7 @@ hr{
     transform: rotate(20deg);
     width: 212px;
     position: relative;
-    top: 7px;
+    top: -190px;
     left: 394px;
 }
 /*スライド*/

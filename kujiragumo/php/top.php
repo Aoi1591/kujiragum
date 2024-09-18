@@ -45,7 +45,7 @@
 <p class="stretch">みんなで体操</p>
 <img class="str-img" src="../img/体操.png">
 <div class="str-hr"><hr></div>
-<p class="program">各種療育プログラム</p>
+<p class="program">各種療育<br>プログラム</p>
 <img class="pro-img" src="../img/プログラム.png">
 <div class="pro-hr"><hr></div>
 <p class="home">帰りの会</p>
