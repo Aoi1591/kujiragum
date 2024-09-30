@@ -1,7 +1,3 @@
-<?php //require "header.php";?>
-<link rel="stylesheet" href="../CSS/hum.css">
-    <title>ハンバーガーメニュー専用</title>
-</head>
   <!-- spハンバーガーメニュー ↓ -->
   <div class="sp_nav">
     <div class="overlay" id="js_overlay"></div>
@@ -21,7 +17,7 @@
       </nav>
     </div>
   </div>
-  <script src="../JavaScript/hum.js"></script>
+  <script src="../js/hum.js"></script>
   <!-- spハンバーガーメニュー ↑ -->
 </header>
 <!--ヘッダー↑-->
