@@ -1,3 +1,5 @@
+@media screen and(min-width:481px) {
+    
 body {
     justify-content: center;
     font-family: 'Rounded M+ 1c', sans-serif; /* 丸みのあるフォント */
@@ -99,4 +101,5 @@ body {
 .training-text {
     font-size: 1.2em;
     color: #333;
+}
 }
