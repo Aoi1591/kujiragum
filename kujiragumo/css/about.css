@@ -133,6 +133,9 @@ body {
 }
 
 .about-circle {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     display: inline-block;
     padding: 15px;
     border-radius: 40%;
@@ -161,21 +164,24 @@ body {
 
 .point1 {
     width: 50%;
+    margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
-    padding: 20px;
+    padding: 20px !important;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     border: 10px dotted #8EC9DA;
 }
 
 .point1 h3 {
+    text-align: center;
     font-size: 1.5em;
     color: #5b84b2;
     margin-bottom: 15px;
 }
 .point2 {
     width: 50%;
+    margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
@@ -185,12 +191,14 @@ body {
 }
 
 .point2 h3 {
+    text-align: center;
     font-size: 1.5em;
     color: #5b84b2;
     margin-bottom: 15px;
 }
 .point3 {
     width: 50%;
+    margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
@@ -200,6 +208,7 @@ body {
 }
 
 .point3 h3 {
+    text-align: center;
     font-size: 1.5em;
     color: #5b84b2;
     margin-bottom: 15px;
@@ -211,7 +220,7 @@ body {
 }
 
 .charm .charm-text {
-    font-size: 2em;
+    font-size: 1.45em;
     color: #5b84b2;
     margin-bottom: 20px;
     font-weight: 900;
@@ -223,7 +232,7 @@ body {
 }
 
 .charm p {
-    font-size: 1.2em;
+    font-size: 1.15em;
     color: #666;
     margin-bottom: 40px;
 }
