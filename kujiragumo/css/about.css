@@ -45,7 +45,7 @@ body {
     margin-bottom: 50px;
 }
 
-.point {
+.point1 {
     width: 50%;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -53,7 +53,33 @@ body {
     border: 10px dotted #8EC9DA;
 }
 
-.point h3 {
+.point1 h3 {
+    font-size: 1.5em;
+    color: #5b84b2;
+    margin-bottom: 15px;
+}
+.point2 {
+    width: 50%;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 10px dotted #8EC9DA;
+}
+
+.point2 h3 {
+    font-size: 1.5em;
+    color: #5b84b2;
+    margin-bottom: 15px;
+}
+.point3 {
+    width: 50%;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 10px dotted #8EC9DA;
+}
+
+.point3 h3 {
     font-size: 1.5em;
     color: #5b84b2;
     margin-bottom: 15px;
@@ -99,4 +125,119 @@ body {
 .training-text {
     font-size: 1.2em;
     color: #333;
+}
+@media screen and (max-width:480px) {
+    /*---------------------------タイトル-------------------------------
+
+.about-text {
+    margin-bottom: 50px;
+}
+
+.about-circle {
+    display: inline-block;
+    padding: 15px;
+    border-radius: 40%;
+    width: 30%;
+    background-color: #9eb6ce;
+    color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.about{
+    font-size: 25px;
+}
+
+.about-circle span{
+    text-decoration: overline;
+}
+/*---------------------------ポイント-------------------------------*/
+
+.point-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+    margin-bottom: 50px;
+}
+
+.point1 {
+    width: 50%;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 10px dotted #8EC9DA;
+}
+
+.point1 h3 {
+    font-size: 1.5em;
+    color: #5b84b2;
+    margin-bottom: 15px;
+}
+.point2 {
+    width: 50%;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 10px dotted #8EC9DA;
+}
+
+.point2 h3 {
+    font-size: 1.5em;
+    color: #5b84b2;
+    margin-bottom: 15px;
+}
+.point3 {
+    width: 50%;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 10px dotted #8EC9DA;
+}
+
+.point3 h3 {
+    font-size: 1.5em;
+    color: #5b84b2;
+    margin-bottom: 15px;
+}
+/*---------------------------療育の魅力-------------------------------*/
+
+.charm {
+    margin-top: 50px;
+}
+
+.charm .charm-text {
+    font-size: 2em;
+    color: #5b84b2;
+    margin-bottom: 20px;
+    font-weight: 900;
+}
+
+.charm-text span{
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.charm p {
+    font-size: 1.2em;
+    color: #666;
+    margin-bottom: 40px;
+}
+
+.training {
+    background-color: #d0e4f1;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.training-title {
+    font-size: 1.8em;
+    font-weight: 700;
+    color: #5b84b2;
+    margin-bottom: 20px;
+}
+
+.training-text {
+    font-size: 1.2em;
+    color: #333;
+}
 }
