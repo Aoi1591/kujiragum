@@ -21,10 +21,8 @@ q:before, q:after {
 	content: none;
 }
 div {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    /* 必要に応じて他のプロパティもリセット */
+    margin: 0 !important;
+    padding: 0 !important;
 }
 table {
 	border-collapse: collapse;
