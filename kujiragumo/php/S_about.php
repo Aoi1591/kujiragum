@@ -1,5 +1,5 @@
 <?php require "header.php";?>
-<link rel="stylesheet" href="../css/about.css">
+<link rel="stylesheet" href="../css/S_about.css">
     <div class="about-main">
         <div class="about-text">
             <div class="about-circle">
