@@ -176,6 +176,8 @@ body {
 }
 .point2 {
     width: 50%;
+    margin-left: auto;
+    margin-right: auto;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
@@ -189,6 +191,8 @@ body {
 }
 .point3 {
     width: 50%;
+    margin-left: auto;
+    margin-right: auto;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
