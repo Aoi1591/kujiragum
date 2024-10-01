@@ -5,6 +5,7 @@
         <title>放課後等デイサービス  くじらぐも</title>
         <link rel="stylesheet" href="../css/header.css">
         <link rel="stylesheet" href="../css/hum.css">
+        <link rel="stylesheet" href="../css/flow.css">
         <link rel="stylesheet" href="../css/fotter.css"> 
 
     </head>
