@@ -153,10 +153,10 @@ body {
 /*---------------------------ポイント-------------------------------*/
 
 .point-container {
-    display: flex;
+   /* display: flex;
     justify-content: space-between;
     gap: 80px;
-    margin-bottom: 50px;
+    margin-bottom: 50px;*/
 }
 
 .point1 {
