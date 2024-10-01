@@ -256,11 +256,13 @@ body {
     text-align: center;
     font-weight: 700;
     color: #5b84b2;
+    padding: 10px !important;
     margin-bottom: 20px;
 }
 
 .training-text {
     font-size: 1.2em;
+    padding-top: 20px o !important;
     color: #333;
 }
 }
