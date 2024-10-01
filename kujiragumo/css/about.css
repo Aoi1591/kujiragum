@@ -40,6 +40,10 @@ body {
 /*---------------------------ポイント-------------------------------*/
 
 .point-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+    margin-bottom: 50px;
 
 }
 
