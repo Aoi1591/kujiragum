@@ -1,5 +1,4 @@
 <?php require "header.php";?>    
-<link rel="stylesheet" href="../css/flow.css">
     <div class="big-box">
         <div class="plan-main">
 
