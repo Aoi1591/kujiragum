@@ -1,4 +1,4 @@
-<?php require "header.php";?>
+<?php require "S_header.php";?>
 <link rel="stylesheet" href="../css/S_about.css">
     <div class="about-main">
         <div class="about-text">
