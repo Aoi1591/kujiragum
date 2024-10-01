@@ -1,5 +1,4 @@
 <?php require "header.php";?>
-    <link rel="stylesheet" href="../css/about.css">
     <div class="about-main">
         <div class="about-text">
             <div class="about-circle">
@@ -8,20 +7,20 @@
             </div>
         </div>
         <div class="point-container">
-            <div class="point">
+            <div class="point1">
                 <h3>Point 1</h3>
                 <p>こころとからだに働きかける多彩な<br>
                 プログラムにより意思決定能力を育みます<br>
                 個々のペースに寄り添ったプログラムで<br>
                 子ども達の得意をたくさん作るサポートをいたします</p>
             </div>
-            <div class="point">
+            <div class="point2">
                 <h3>Point 2</h3>
                 <p>楽しいプログラムにより子ども達が<br>
                 コミュニケーションを取りながら楽しく・安心<br>
                 できる・心地よい居場所づくりをいたします</p>
             </div>
-            <div class="point">
+            <div class="point3">
                 <h3>Point 3</h3>
                 <p>「褒めて育てる」がスタッフの合言葉！<br>
                 子ども達一人ひとりの見え方を想像し<br>
