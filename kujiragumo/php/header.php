@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="../css/header.css">
         <link rel="stylesheet" href="../css/hum.css">
         <link rel="stylesheet" href="../css/about.css">
-        <link rel="stylesheet" href="../css/fotter.css">
+        <link rel="stylesheet" href="../css/fotter.css"> 
 
     </head>
     <?php
