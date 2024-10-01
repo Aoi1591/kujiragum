@@ -20,6 +20,12 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
+div {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* 必要に応じて他のプロパティもリセット */
+}
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
