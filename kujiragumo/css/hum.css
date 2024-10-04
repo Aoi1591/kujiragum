@@ -125,8 +125,8 @@ header ul li a:hover::after {
     display: none;
   }
   .sidemenu {
-    right: -50%; /* メニュー幅を右側に */
-    width: 40%; /* メニュー幅 */
+    right: -100%; /* メニュー幅を右側に */
+    width: 100%; /* メニュー幅 */
   }
 }
 @media screen and (min-width: 999px) {
