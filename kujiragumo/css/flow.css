@@ -103,6 +103,18 @@
         font-weight: 500;
     }
     }
+
+
+
+
+
+
+
+
+
+
+
+
         /*・・・・・・・・・・・・・・・・・・・・スマホ・・・・・・・・・・・・・・・・・・・・・・・・・・・*/
     @media screen and (max-width: 480px) {
         body {
@@ -113,12 +125,13 @@
             text-align: center;
             width: 700px;
             margin: auto;
-            padding: 160px;
+            padding: 65px;
             background-color: white;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         .plan-main h2{
             text-align: center;
+            width: 200px;
         }
         .yes-and-no{
             display: flex;
@@ -188,7 +201,6 @@
             border-radius: 20%;
         }
         .price-main h2{
-            font-size: 40px;
             font-weight: 100;
         }
         .price-main h3{
