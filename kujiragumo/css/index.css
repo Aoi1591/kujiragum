@@ -466,7 +466,6 @@ hr{
 /*--------------------------------スマホ------------------------------------*/
 @media screen and (max-width:480px) {
 
-    @media screen and (min-width:481px) {
         .top{
             width: 700px;
             margin: auto;
@@ -502,6 +501,7 @@ hr{
             width: 100px;
             height: 50px;
             position: relative;
+            left: -25px;
             top: 150px;
             color: #fff;
             background-color: #87CEFA;
@@ -522,8 +522,8 @@ hr{
             width: 100px;
             height: 50px;
             position: relative;
-            left: 600px;
-            top: -40px;
+            left: 240px;
+            top: -43px;
             color: #fff;
             background-color: #87CEFA;
         }
@@ -533,8 +533,7 @@ hr{
             width: 100px;
             height: 50px;
             position: relative;
-            left: 300px;
-            top: -90px;
+            left: 100px;
             color: #fff;
             background-color: #87CEFA;
         }
@@ -544,6 +543,7 @@ hr{
             width: 100px;
             height: 50px;
             position: relative;
+            left: -25px;
             top: -90px;
             color: #fff;
             background-color: #87CEFA;
@@ -554,7 +554,7 @@ hr{
             width: 100px;
             height: 50px;
             position: relative;
-            left: 300px;
+            left: 100px;
             top: -150px;
             color: #fff;
             background-color: #87CEFA;
@@ -566,7 +566,7 @@ hr{
             height: 50px;
             position: relative;
             top: -150px;
-            left: 600px;
+            left: 240px;
             color: #fff;
             background-color: #87CEFA;
         }
@@ -623,19 +623,19 @@ hr{
             border: none;
             border-top: 5px dotted rgb(51, 162, 209);
             transform: rotate(160deg);
-            width: 212px;
+            width: 100px;
             position: relative;
-            top: 70px;
-            left: 95px;
+            top: 60px;
+            left: 2px;
         }
         .sta-hr{
             border: none;
             border-top: 5px dotted rgb(51, 162, 209);
             transform: rotate(20deg);
-            width: 212px;
+            width: 100px;
             position: relative;
-            top: -30px;
-            left: 394px;
+            top: -45px;
+            left: 210px;
         }
         .hom-hr{
             border: none;
