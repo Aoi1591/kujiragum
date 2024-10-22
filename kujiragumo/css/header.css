@@ -29,13 +29,18 @@ table {
 	border-spacing: 0;
 }
 .header{
-    background-color: #fff;
+
+    background-color: #AFDFE4;
     width: 100%;
-    /*sition: fixed; /* ヘッダーを固定 */
+    position: fixed; /* ヘッダーを固定 */
     z-index: 30;
 }
 .logo{
     text-align: right;
     width: 300px;
     height: 100px;
+}
+.inquiry{
+    text-decoration: none;
+    color: blacks;
 }
