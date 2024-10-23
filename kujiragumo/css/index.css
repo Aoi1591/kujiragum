@@ -248,7 +248,7 @@ hr{
             background-color: #2d6792;
         }
         .expl{
-            margin: 30px;
+            margin: 60px;
             width: 300px;
         }
         /*１日の流れ*/
@@ -442,6 +442,7 @@ hr{
         /*スライド*/
         .slide-container {
             width: 100%;
+            height: 200px;
             margin: 50px auto;
             display: flex;
             align-items: center;
