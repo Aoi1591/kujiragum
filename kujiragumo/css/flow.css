@@ -123,6 +123,8 @@
         }
         .plan-main {
             text-align: center;
+            position: relative;
+            top: 80px;
             margin: auto;
             padding: 65px;
             background-color: white;
@@ -130,7 +132,6 @@
         }
         .plan-main h2{
             text-align: center;
-            width: 200px;
         }
         .yes-and-no{
             display: flex;
@@ -166,9 +167,6 @@
             flex-grow: 1;
             text-align: center;
         }
-        .flow-item span{
-            text-decoration: overline;
-        }
         .content-text{
             color: #ffff;
         }
@@ -192,8 +190,10 @@
         }
         /*----------------------------------------利用料金---------------------------------------------*/
         .price-main {
+            position: relative;
+            top: 80px;
             padding: 40px;
-            margin:  10px auto;
+            margin:  30px;
             text-align: center;
             border: 10px dotted #8EC9DA;
             border-radius: 20%;
