@@ -12,6 +12,7 @@
     text-align: center;
 }
 .question{
+    line-height: 2px;
     font-size: 20px;
     margin: auto;
     width: 300px;
@@ -24,7 +25,7 @@
 }
 /*１日の流れ*/
 
-h2{
+.day-title{
     text-align: center;
     line-height: 50px;
 }
@@ -243,6 +244,7 @@ hr{
             text-align: center;
         }
         .question{
+            line-height: 2px;
             margin: auto;
             width: 350px;
             text-align: center;
@@ -256,10 +258,12 @@ hr{
         /*１日の流れ*/
         .oneday{
             width: 300px;
+            margin: 28px;
         }
-        h2{
+        day-title{
             text-align: center;
-            line-height: 50px;
+            line-height: 2px;
+            background-color: #2d6792;
         }
         /*項目*/
         .transfer{
