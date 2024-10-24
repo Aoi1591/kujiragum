@@ -38,23 +38,25 @@
     </p>
   </div>
     <h2>１日の流れ（例）</h2>
-    <p class="transfer">送迎・来所</p>
-    <div class="tra-hr"><hr></div>
-       <p class="start">始まりの会</p>
-       <img class="sta-img" src="../img/朝.jpg">
-    <div class="sta-hr"><hr></div>
-       <p class="homework">宿題</p>
-       <img class="home-img" src="../img/宿題.png">
-       <img class="home2-img" src="../img/宿題2.png">
-    <div class="hom-hr"><hr></div>
-       <p class="stretch">みんなで体操</p>
-    <div class="str-hr"><hr></div>
-       <p class="program">各種療育<br>プログラム</p>
-       <img class="pro-img" src="../img/プログラム.png">
-    <div class="pro-hr"><hr></div>
-       <p class="home">帰りの会</p>
-    <div class="home-hr"><hr></div>
-       <p class="back_home">送迎・帰宅</p>
-       <img class="back-img" src="../img/送迎.png">
+    <div class="oneday">
+      <p class="transfer">送迎・来所</p>
+      <div class="tra-hr"><hr></div>
+        <p class="start">始まりの会</p>
+        <img class="sta-img" src="../img/朝.jpg">
+      <div class="sta-hr"><hr></div>
+         <p class="homework">宿題</p>
+         <img class="home-img" src="../img/宿題.png">
+         <img class="home2-img" src="../img/宿題2.png">
+      <div class="hom-hr"><hr></div>
+         <p class="stretch">みんなで体操</p>
+       <div class="str-hr"><hr></div>
+         <p class="program">各種療育<br>プログラム</p>
+         <img class="pro-img" src="../img/プログラム.png">
+       <div class="pro-hr"><hr></div>
+         <p class="home">帰りの会</p>
+        <div class="home-hr"><hr></div>
+         <p class="back_home">送迎・帰宅</p>
+         <img class="back-img" src="../img/送迎.png">
+   </div>
   </div>
 <?php require'fotter.html';?>

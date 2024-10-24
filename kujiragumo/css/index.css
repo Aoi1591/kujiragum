@@ -250,11 +250,13 @@ hr{
             background-color: #2d6792;
         }
         .expl{
-            margin: 60px;
+            margin: 40px;
             width: 300px;
         }
         /*１日の流れ*/
-        
+        .oneday{
+            width: 300px;
+        }
         h2{
             text-align: center;
             line-height: 50px;
