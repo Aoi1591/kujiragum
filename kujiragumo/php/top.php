@@ -37,7 +37,7 @@
       一時的なケアを行うことで【家族へのレスパイトケア（休息）】としての役割も担っています。
     </p>
   </div>
-    <h2>１日の流れ（例）</h2>
+    <h2 class="day-title">１日の流れ（例）</h2>
     <div class="oneday">
       <p class="transfer">送迎・来所</p>
       <div class="tra-hr"><hr></div>
