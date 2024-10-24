@@ -135,7 +135,7 @@ body {
 
 .about-text {
     margin-bottom: 50px;
-    margin-top: 30%;
+    margin-top: 40%;
 }
 
 .about-circle {
@@ -152,8 +152,6 @@ body {
 }
 
 .about{
-    position: relative;
-    top: 40px;
     font-size: 25px;
 }
 
