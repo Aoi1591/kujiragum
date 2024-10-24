@@ -132,8 +132,10 @@ body {
 @media screen and (max-width:480px) {
     /*---------------------------タイトル-------------------------------*/
 
+
 .about-text {
     margin-bottom: 50px;
+    margin-top: 30%;
 }
 
 .about-circle {
