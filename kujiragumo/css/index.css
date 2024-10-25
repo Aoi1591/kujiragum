@@ -244,7 +244,7 @@ hr{
             text-align: center;
         }
         .question{
-            line-height: 2px;
+            line-height: 35px;
             margin: auto;
             width: 350px;
             text-align: center;
@@ -260,7 +260,7 @@ hr{
             width: 300px;
             margin: 28px;
         }
-        day-title{
+        .day-title{
             text-align: center;
             line-height: 2px;
             background-color: #2d6792;
