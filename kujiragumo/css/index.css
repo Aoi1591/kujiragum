@@ -27,7 +27,9 @@
 
 .day-title{
     text-align: center;
+    color: #FFF;
     line-height: 50px;
+    background-color: #2d6792;
 }
 /*項目*/
 .transfer{
@@ -261,7 +263,9 @@ hr{
             margin: 28px;
         }
         .day-title{
+            color: #FFF;
             text-align: center;
+            width: 300px;
             line-height: 35px;
             background-color: #2d6792;
         }
