@@ -48,7 +48,7 @@ a{
 .assess{
     text-decoration: none;
     color: #fff;
-    padding: relative;
+    position: relative;
     left: 20px;
 }
 }
@@ -107,7 +107,6 @@ a{
     .assess{
         text-decoration: none;
         color: #fff;
-        padding: relative;
-        left: 20px;
+
     }
     }
