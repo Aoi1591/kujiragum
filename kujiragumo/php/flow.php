@@ -5,7 +5,9 @@
             <h2>ご利用の流れ</h2>
             <div class="yes-and-no">
                 <div class="no">なし</div>
+                <div class="no_line"><hr></div>
                 <div class="yes">あり</div>
+                <div class="yes_line"><hr></div>
             </div>
 
             <div class="flow-item">
@@ -23,7 +25,7 @@
                 </div>
             </div>
             <div class="flow-item">
-                <div class="content">障害児支援利用計画を作成・提出<br><span>【相談支援事業者】または【セルフプラン】</span></div>
+                <div class="content">障害児支援利用計画を<br>作成・提出<br><span>【相談支援事業者】または【セルフプラン】</span></div>
             </div>
             <div class="right-box">
                 <div class="flow-item">

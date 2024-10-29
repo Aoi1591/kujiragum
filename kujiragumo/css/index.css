@@ -12,10 +12,9 @@
     text-align: center;
 }
 .question{
-    line-height: 2px;
-    font-size: 20px;
+    line-height: 40px;
     margin: auto;
-    width: 300px;
+    width: 450px;
     text-align: center;
     color: #fff;
     background-color: #2d6792;
@@ -210,6 +209,7 @@ hr{
 /*スライド*/
 .slide-container {
     width: 100%;
+    height: 200px;
     margin: 50px auto;
     display: flex;
     align-items: center;
@@ -266,8 +266,11 @@ hr{
             color: #FFF;
             text-align: center;
             width: 300px;
+            margin: 40px;
             line-height: 35px;
             background-color: #2d6792;
+            position: relative;
+            left: 40px;
         }
         /*項目*/
         .transfer{
