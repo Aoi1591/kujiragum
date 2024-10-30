@@ -12,7 +12,7 @@
           <li><a href="top.php">ホーム</a></li>
           <li><a href="flow.php">ご利用の流れ・料金</a></li>
           <li><a href="about.php">くじらぐもの魅力</a></li>
-          <li><a href="https://kujiragumo.deca.jp/a">ブログ</a></li>
+          <li><a href="https://kujiragumo.deca.jp">ブログ</a></li>
         </ul>
       </nav>
     </div>
